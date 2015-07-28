@@ -1,0 +1,35 @@
+/* these are notes */
+h1 {
+  color: blue;
+}
+
+h4 {
+  color: #00CCFF;
+}
+
+.lists {
+  color: #A319D1;
+}
+
+.title-section{
+  text-align: center;
+}
+
+.title-section img {
+  border-style: solid;
+  border-color: #000066;
+  border-width: 4px;
+}
+
+p {
+  font-family: Arial;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.books {
+  color: #0000B8;
+}
